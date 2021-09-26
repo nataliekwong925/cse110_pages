@@ -1,3 +1,2 @@
 # cse110_pages
-
-My favorite programming language is Python.
+My favorite programming language is Python
