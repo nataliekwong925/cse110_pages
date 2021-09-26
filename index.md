@@ -20,7 +20,7 @@ The top 3 books I've read recently are:
 
 ## Some Goals I Have In Life:
 - [x] Run a marathon
-- [x] Write a book (You can check it out )[here](https://www.amazon.com/Shattered-Book-Horizon-Nature-Trilogy/dp/0615755534/))
+- [x] Write a book (You can check it out [here](https://www.amazon.com/Shattered-Book-Horizon-Nature-Trilogy/dp/0615755534/))
 - [ ] Become bilingual
 - [ ] Develop my own painting style
 - [ ] Write a successful book
