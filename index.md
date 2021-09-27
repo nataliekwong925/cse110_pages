@@ -5,7 +5,7 @@
 
 I have come a long way from learning introductory programming like `print("Hello World!)`, but I know I still have a lot to learn and that my career path is just beginning.
 
-[info](#More About Me)
+[More About Me](#more-about-me)
 Outside of my academic studies, I enjoy:
 - Reading
 - Running
