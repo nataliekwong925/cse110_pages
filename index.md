@@ -5,7 +5,7 @@
 
 I have come a long way from learning introductory programming like `print("Hello World!)`, but I know I still have a lot to learn and that my career path is just beginning.
 
-[](#more-about-me)
+[More About Me](#more-about-me)
 ## More About Me
 Outside of my academic studies, I enjoy:
 - Reading
@@ -19,6 +19,7 @@ The top 3 books I've read recently are:
 2. *A Fine Balance* by Rohinton Mistry
 3. *Middlesex* by Jeffrey Eugenides
 
+[Goals](#some-goals-i-have-in-life)
 ## Some Goals I Have In Life:
 - [x] Run a marathon
 - [x] Write a book (You can check it out [here](https://www.amazon.com/Shattered-Book-Horizon-Nature-Trilogy/dp/0615755534/))
