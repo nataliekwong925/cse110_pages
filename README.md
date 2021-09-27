@@ -1,2 +1,2 @@
 # cse110_pages
-My favorite programming language is Python! 
+[Link to User Page](https://nataliekwong925.github.io/cse110_pages/)
